@@ -1,4 +1,4 @@
-# Stream_Sharp
+# SeeSharp <3 Stream_Sharp
 Intro Stream to C# during Corona Times
 
 # Getting started
@@ -32,6 +32,7 @@ All cool? lets gooo:
     cd helloWorld
     dotnet run helloWorld
 
+LEARN MORE[https://dotnet.microsoft.com/learn/]
 
 # FILES HERE
 	

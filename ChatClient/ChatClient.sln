@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatClient", "ChatClient\ChatClient.csproj", "{0EB45D99-D346-4092-95C2-0AD2D8BC957B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0EB45D99-D346-4092-95C2-0AD2D8BC957B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EB45D99-D346-4092-95C2-0AD2D8BC957B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EB45D99-D346-4092-95C2-0AD2D8BC957B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EB45D99-D346-4092-95C2-0AD2D8BC957B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

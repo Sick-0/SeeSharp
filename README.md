@@ -3,7 +3,7 @@ Intro Stream to C# during Corona Times
 
 # Getting started
 
-	APP
+	IDE:
 	 Rider
 	 Visual Studio
 
